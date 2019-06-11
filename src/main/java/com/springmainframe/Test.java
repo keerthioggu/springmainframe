@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 		public String accessDenied() {
 			return "";
 		}
+		public static void main(String[] args) {
+			System.out.println("welcome");
+		}
 
 	}
 
