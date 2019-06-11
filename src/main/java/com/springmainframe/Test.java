@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 			return "";
 		}
 		public static void main(String[] args) {
-			System.out.println("welcome!");
+			System.out.println("welcome!!");
 		}
 
 	}
